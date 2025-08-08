@@ -43,6 +43,5 @@ export default function App() {
         photos={photos}
         movePhoto={(oldIndex, newIndex) => setPhotos(arrayMove(photos, oldIndex, newIndex))}
       />
-    />
   );
 }
