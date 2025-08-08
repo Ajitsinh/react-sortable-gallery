@@ -8,7 +8,7 @@ import SortableGallery from "./components/SortableGallery";
 import photoSet from "./components/photos";
 
 import Lightbox from "yet-another-react-lightbox";
-import "yet-another-react-lightbox/styles.css";
+//import "yet-another-react-lightbox/styles.css";
 
 // import optional lightbox plugins
 import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
