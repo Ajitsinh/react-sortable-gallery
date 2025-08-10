@@ -1,1 +1,1 @@
-# sortable-gallery
+# react-sortable-gallery
