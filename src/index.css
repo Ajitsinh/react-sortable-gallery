@@ -10,7 +10,7 @@
   --text: #0c0c10;
   --link: rgb(0, 112, 243);
   --link-hover: #004aad;
-  --border: #e5e7ef; /* light gray border */
+  --border: #242a3b; /* light gray border */
 }
 
 :root[data-theme="dark"] {
@@ -19,7 +19,7 @@
   --text: #e6e6eb;
   --link: #9ab4ff;
   --link-hover: #d0d9ff;
-  --border: #232331; /* darker border */  
+  --border: #242a3b; /* darker border */  
 }
 
 body {
