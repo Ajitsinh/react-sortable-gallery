@@ -1,6 +1,7 @@
 /* Base setup */
 * {
   box-sizing: border-box;
+  border-color: var(--border) !important; /* override white borders */
 }
 
 :root {
@@ -9,6 +10,7 @@
   --text: #0c0c10;
   --link: rgb(0, 112, 243);
   --link-hover: #004aad;
+  --border: #e5e7ef; /* light gray border */
 }
 
 :root[data-theme="dark"] {
@@ -17,6 +19,7 @@
   --text: #e6e6eb;
   --link: #9ab4ff;
   --link-hover: #d0d9ff;
+  --border: #232331; /* darker border */  
 }
 
 body {
