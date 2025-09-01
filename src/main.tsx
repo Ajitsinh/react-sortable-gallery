@@ -8,7 +8,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <header>
       <h1>React Photo Album | Sortable Gallery</h1>
-      <p>Drag and drop photos to reorder them in the gallery.</p>
+      <br><p>Drag and drop photos to reorder them in the gallery.</p></br>
 {/*       <a href="https://github.com/igordanchenko/react-photo-album" target="_blank" rel="noreferrer noopener">GitHub</a>
       <a href="https://react-photo-album.com/" target="_blank" rel="noreferrer noopener">Docs</a> */}
     </header>
