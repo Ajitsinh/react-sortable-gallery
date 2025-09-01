@@ -7,8 +7,11 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <header>
-      <h1>React Photo Album | Sortable Gallery</h1>
-<p>Drag and drop photos to reorder them in the gallery...</p>
+      <h1>
+        React Photo Album | Sortable Gallery
+      <br />
+        You may drag and drop photos to reorder them below, please give it a try.....
+      </h1>
 {/*       <a href="https://github.com/igordanchenko/react-photo-album" target="_blank" rel="noreferrer noopener">GitHub</a>
       <a href="https://react-photo-album.com/" target="_blank" rel="noreferrer noopener">Docs</a> */}
     </header>
