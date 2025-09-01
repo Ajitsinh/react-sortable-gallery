@@ -50,6 +50,11 @@ header h1 {
   color: var(--text);
 }
 
+header .subtitle {
+  font-size: 1.1rem;
+  color: #666;
+}
+
 header a {
   font-size: 1.4rem;
   font-weight: 500;
